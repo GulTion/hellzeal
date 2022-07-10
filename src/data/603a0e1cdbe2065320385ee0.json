@@ -1,0 +1,1318 @@
+{
+    "status": "success",
+    "data": {
+        "test": {
+            "name": "TEST ID-1 [DM-1]",
+            "testTotalDuration": 3000000,
+            "settings": {
+                "fonts": {},
+                "isSectionSwitchingEnabled": true
+            }
+        },
+        "filters": {
+            "incorrect": 0,
+            "correct": 0,
+            "partiallyMarked": 0,
+            "unattempted": 1,
+            "markForReview": 0,
+            "graceMarked": 0,
+            "revaluated": 0
+        },
+        "timeTaken": 3000000,
+        "courseId": 73115,
+        "showReportQuestion": true,
+        "sectionWiseStats": [
+            {
+                "marksScored": 0,
+                "sectionMarks": 50,
+                "accuracy": 0,
+                "_id": "6288f18f31938dd07604a7c0",
+                "totalQuestions": 25,
+                "attemptDuration": 0,
+                "correctAnswers": 0,
+                "inCorrectAnswers": 0,
+                "partiallyCorrectAnswers": 0,
+                "unAttempted": 25,
+                "name": "Discrete Mathematics  Test -1",
+                "order": 1,
+                "sectionDuration": 0,
+                "sectionId": "603a0e1cdbe2065320385edf"
+            }
+        ],
+        "sections": [
+            {
+                "draftMode": false,
+                "isActive": true,
+                "sectionDuration": 0,
+                "sectionMarks": 50,
+                "sectionInstructions": " ",
+                "hasOptionalQuestions": false,
+                "_id": "603a0e1cdbe2065320385edf",
+                "name": "Discrete Mathematics  Test -1",
+                "order": 1,
+                "createdAt": "2021-04-09T08:56:02.483Z",
+                "updatedAt": "2021-04-09T08:56:02.483Z",
+                "questions": [
+                    {
+                        "_id": "603a0e1cdbe2065320385ee2",
+                        "name": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614077737631/a17f35ad-70f9-4fa5-9c80-8b770abd61ac.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "\u00a0",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 1,
+                        "questionSubmitOrder": 1,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034df2a5d94665307d56245",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034df2a5d94665307d56246",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034df2a5d94665307d56247",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034df2a5d94665307d56248",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;</p>\n<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614148189955/adbd90a6-1c16-47c3-aae0-dcd4342ded9d.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee3",
+                        "name": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614077756878/fd9861ca-8a60-4687-a6d1-df138e41bade.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "\u00a0",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 2,
+                        "questionSubmitOrder": 2,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034df555d94665307d56267",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034df555d94665307d56268",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034df555d94665307d56269",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034df555d94665307d5626a",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614077771812/5b79014f-be02-4371-97a0-40d6f3058b2c.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee4",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078050945/7f9181e2-094d-4d50-9c40-b3931be5909b.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": " ",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 3,
+                        "questionSubmitOrder": 3,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dc600d2a241f3c6c9103",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dc600d2a241f3c6c9104",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": false,
+                                "_id": "6034dc600d2a241f3c6c9105",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034dc600d2a241f3c6c9106",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078066474/a79984b4-5e62-485a-8572-5076dcce2269.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078081333/80a1fe5b-52a9-4a9e-866e-a479fafbaef3.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078090859/1e80b980-b467-4400-a059-2ebf8523d56c.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee5",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078114378/6dfeacc7-e5ea-4796-aeb0-2681e1cdd777.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 4,
+                        "questionSubmitOrder": 4,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034dc7cd32a6653011fdf5f",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dc7cd32a6653011fdf60",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dc7cd32a6653011fdf61",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034dc7cd32a6653011fdf62",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078128358/68a95880-5f5d-4bbe-9297-c65e707c15b2.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078168193/047d0c35-931a-4b24-b919-50115cd19bd8.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078185736/d4d4c827-86df-4c51-b744-54ad1205f14f.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee6",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078296559/38b5d546-10e9-4442-b50e-a340d175485c.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 5,
+                        "questionSubmitOrder": 5,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dc84d32a6653011fdf71",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034dc84d32a6653011fdf72",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dc84d32a6653011fdf73",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034dc84d32a6653011fdf74",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078305436/06801cde-af00-4905-aaec-eb808abe6380.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee7",
+                        "name": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614149434534/301dc68e-7b8d-428c-b910-39bb6c854927.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 6,
+                        "questionSubmitOrder": 6,
+                        "options": [
+                            {
+                                "solution": [
+                                    "32"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dc915d94665307d55f2b",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078338857/9a0e6def-8454-4155-83bb-82ce7807c2c1.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee8",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614148248626/1c5f77fa-c53a-4e5a-84d8-a389f806b3b5.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 7,
+                        "questionSubmitOrder": 7,
+                        "options": [
+                            {
+                                "solution": [
+                                    "713"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dc915d94665307d55f2d",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078367752/2dbb1d61-2f40-4117-bd94-bd2a6ccabbc4.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078379984/9e7d3c47-253c-425c-80ca-c77ee8670f81.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ee9",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078395396/1aecc199-1778-4d51-9853-b4a0280b3fb0.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 8,
+                        "questionSubmitOrder": 8,
+                        "options": [
+                            {
+                                "solution": [
+                                    "51"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dc915d94665307d55f2f",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078420537/568c09d1-1244-43c3-9ece-7e38b6bab864.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078437129/95fa68fe-d759-40ca-8a8b-8fbbd4ca1d77.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078447107/a3d8bcc0-fa6c-4113-8bf3-7556d185d5ef.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eea",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078460865/812c07a1-709a-4008-b36a-059600063a32.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 9,
+                        "questionSubmitOrder": 9,
+                        "options": [
+                            {
+                                "solution": [
+                                    "50"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dc915d94665307d55f31",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078480908/0cc04bdf-8201-4570-97d7-27c88148cc8d.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eeb",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078532773/43c9a265-1493-4c35-9b17-5ac70181c3d7.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": " ",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 10,
+                        "questionSubmitOrder": 10,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034dc9dd32a6653011fdf9a",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034dc9dd32a6653011fdf9b",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": false,
+                                "_id": "6034dc9dd32a6653011fdf9c",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034dc9dd32a6653011fdf9d",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614148337096/f7e87a35-308f-4a0b-9108-3ad38c155cb7.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eec",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078798969/6bf1520c-c774-4013-97ba-a61a9a737920.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": " ",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 11,
+                        "questionSubmitOrder": 11,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dca51667c31f35660bde",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dca51667c31f35660bdf",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dca51667c31f35660be0",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034dca51667c31f35660be1",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614148580748/47651f1a-c0fd-4df7-b28f-febc16e0bf7e.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614148619668/9494f5b9-e9d4-4c32-b228-d542452f4da5.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eed",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078931405/4e168b68-a9ca-4a9b-9bf2-06f2f3b340d1.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 12,
+                        "questionSubmitOrder": 12,
+                        "options": [
+                            {
+                                "solution": [
+                                    "35"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd2e1667c31f35660c73",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614160717095/2b05e95d-7d2c-4aac-94b9-662d542e68be.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eee",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614078991626/6f20875d-7746-46c7-9bee-fc86c1fe2d0d.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 13,
+                        "questionSubmitOrder": 13,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dd391667c31f35660e4d",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034dd391667c31f35660e4e",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dd391667c31f35660e4f",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034dd391667c31f35660e50",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079020215/c5daa08e-15af-49f2-9fff-2117a2bd29d5.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385eef",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079044953/3e85fbd2-c9d4-4080-b01d-c2fe839931c3.png\" alt=\"\" /><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 14,
+                        "questionSubmitOrder": 14,
+                        "options": [
+                            {
+                                "solution": [
+                                    "998910"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd420d2a241f3c6c9806",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079055351/9536a422-2aea-434e-ba8f-06707743e8a2.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef0",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079071317/db6a08d2-c089-4168-bf3a-693388d3ba55.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": " ",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 15,
+                        "questionSubmitOrder": 15,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dd491667c31f35660e6a",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dd491667c31f35660e6b",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dd491667c31f35660e6c",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034dd491667c31f35660e6d",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079099898/f2e8be27-8c82-4e4b-b08a-fa05542af960.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614159313049/fbbe095f-2a7e-4d80-af0a-2d0fc2f0271a.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef1",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079222006/47bae6e5-2f44-495c-a0c5-8a3f359df183.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 16,
+                        "questionSubmitOrder": 16,
+                        "options": [
+                            {
+                                "solution": [
+                                    "3"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd55d32a6653011fe150",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614149110336/db8f54a9-fce9-4ce5-84ea-ac948a0ee3b1.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef2",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079256218/e2ebd1a2-0b08-44fa-b706-ed59edd94995.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 17,
+                        "questionSubmitOrder": 17,
+                        "options": [
+                            {
+                                "solution": [
+                                    "81"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd55d32a6653011fe152",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p>&nbsp;<img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079457379/e254daed-67c1-4af0-90b9-e64bf0c7cb41.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079485767/3105f7af-166e-45a8-8aaa-edf6345de811.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079499916/b651ee5b-9ded-4907-b8d4-774dc2d2703c.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef3",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079519725/e25ca1cf-6c70-4fc1-8712-6f79cd651462.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 18,
+                        "questionSubmitOrder": 18,
+                        "options": [
+                            {
+                                "solution": [
+                                    "30"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd55d32a6653011fe154",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079531178/b60c1620-2f85-4c96-ab3f-d73761c33eeb.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef4",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079568225/1f4a4f6d-246f-4607-a216-159a23f9ea1e.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 19,
+                        "questionSubmitOrder": 19,
+                        "options": [
+                            {
+                                "solution": [
+                                    "16"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd55d32a6653011fe156",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079580195/25ff2b2f-8e3e-4f13-957b-c496c3f4d931.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef5",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079612575/dfa98bba-7cb3-47ff-8b3a-83365f60bb0d.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 20,
+                        "questionSubmitOrder": 20,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": false,
+                                "_id": "6034dd5e0d2a241f3c6c9898",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034dd5e0d2a241f3c6c9899",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": false,
+                                "_id": "6034dd5e0d2a241f3c6c989a",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034dd5e0d2a241f3c6c989b",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079624739/b7da6196-c4a4-4899-ba9b-5cf5515e7324.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef6",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079712902/0afb8906-062a-48b6-a879-2427cbbee153.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 21,
+                        "questionSubmitOrder": 21,
+                        "options": [
+                            {
+                                "solution": [
+                                    "917"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd66d32a6653011fe34a",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079763137/3a353a68-8991-451a-888e-2d9169d4e4ba.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef7",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079780597/f145d79b-e60d-4ec9-84d2-764797fee5ac.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 22,
+                        "questionSubmitOrder": 22,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034dd880d2a241f3c6c9a28",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dd880d2a241f3c6c9a29",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dd880d2a241f3c6c9a2a",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": true,
+                                "_id": "6034dd880d2a241f3c6c9a2b",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079978830/dbb2b500-9f00-415e-a036-5e3a6576b925.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614079991554/4508edc0-eda7-41e6-bd62-7afae00253fd.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef8",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614149215283/ea593552-8c1a-4760-b81f-3b623ff9a95b.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": " ",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 23,
+                        "questionSubmitOrder": 23,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56032",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56033",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56034",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>\n<p>&nbsp;</p>",
+                                "nameText": "d\n\u00a0",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56035",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080058738/5ea23777-87d7-404f-a1aa-80efc5df936e.png\" alt=\"\" /></p>\n<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080082523/f8cb21c0-2c92-4545-a8b9-ec939833b226.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385ef9",
+                        "name": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080097251/6d885c87-22d7-4ec1-b56f-0ce729f7fb54.png\" alt=\"\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 24,
+                        "questionSubmitOrder": 24,
+                        "options": [
+                            {
+                                "name": "<p>a</p>",
+                                "nameText": "a",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56037",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>b</p>",
+                                "nameText": "b",
+                                "isCorrect": false,
+                                "_id": "6034dd925d94665307d56038",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>c</p>",
+                                "nameText": "c",
+                                "isCorrect": true,
+                                "_id": "6034dd925d94665307d56039",
+                                "isMarked": false
+                            },
+                            {
+                                "name": "<p>d</p>",
+                                "nameText": "d",
+                                "isCorrect": false,
+                                "_id": "6034dd925d94665307d5603a",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080108417/f4e43eff-925e-4b78-a68b-f645541b7ea8.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": true,
+                        "type": "multiple_choice",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    },
+                    {
+                        "_id": "603a0e1cdbe2065320385efa",
+                        "name": "<p><img style=\"font-size: 1.4rem;\" src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080132192/6bb8ac62-3dae-401f-99c0-93a3be7156a9.png\" alt=\"\" /></p>\n<p><img id=\"1\" src=\"https://storage.googleapis.com/cp-prod-whitelabel-assets-as-sth1-gcs-dgte34/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+                        "isComprehension": false,
+                        "paragraph": null,
+                        "paragraphText": null,
+                        "fillUpsAnswers": [],
+                        "nameText": "This is a blank question",
+                        "sectionId": "603a0e1cdbe2065320385edf",
+                        "order": 25,
+                        "questionSubmitOrder": 25,
+                        "options": [
+                            {
+                                "solution": [
+                                    "61440"
+                                ],
+                                "isCorrect": true,
+                                "type": "constants",
+                                "_id": "6034dd971667c31f35661244",
+                                "isMarked": false
+                            }
+                        ],
+                        "solution": "<p><img src=\"https://test-portal-assets.s3.ap-south-1.amazonaws.com/production_1614080140961/c9d64ac9-70a2-4690-a320-7fafef178ed3.png\" alt=\"\" /></p>",
+                        "hasMultipleAnswers": false,
+                        "type": "fill_ups",
+                        "isAttempted": false,
+                        "isPartiallyCorrect": false,
+                        "isCorrect": false,
+                        "isGraceMarked": false,
+                        "isReevaluated": false,
+                        "marks": {
+                            "positive": 0,
+                            "negative": 0
+                        },
+                        "timeTaken": 0,
+                        "markForReview": false,
+                        "isGpscType": false,
+                        "isSurrendered": false,
+                        "difficultyLevel": null
+                    }
+                ],
+                "numberOfQuestions": 25
+            }
+        ],
+        "userDetails": {
+            "name": "Gulshan",
+            "userId": 36323825
+        },
+        "sts": 1653562248422,
+        "region": {
+            "timeFormat": "hh:mm a",
+            "dateTimeStamp": "yyyy/MM/dd"
+        }
+    },
+    "message": "Student Tests Fetched Successfully"
+}
